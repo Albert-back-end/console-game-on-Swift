@@ -14,6 +14,7 @@
 		50BAE4382CF3BB3C00B5E74E /* EvenGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */; };
 		50BAE43C2CF3BBC400B5E74E /* EvenCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */; };
 		50BAE43E2CF3BC1300B5E74E /* BrainGSD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */; };
+		50BAE4402CF3BC7700B5E74E /* ProgressionGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EvenGame.swift; path = ../EvenGame.swift; sourceTree = "<group>"; };
 		50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EvenCalc.swift; path = ../EvenCalc.swift; sourceTree = "<group>"; };
 		50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BrainGSD.swift; path = ../BrainGSD.swift; sourceTree = "<group>"; };
+		50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProgressionGame.swift; path = ../ProgressionGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */,
 				50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */,
 				50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */,
+				50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */,
 			);
 			name = games;
 			path = ../../../../.Trash/games;
@@ -152,6 +155,7 @@
 				50BAE43C2CF3BBC400B5E74E /* EvenCalc.swift in Sources */,
 				50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */,
 				50BAE4382CF3BB3C00B5E74E /* EvenGame.swift in Sources */,
+				50BAE4402CF3BC7700B5E74E /* ProgressionGame.swift in Sources */,
 				50BAE4232CF3B71F00B5E74E /* main.swift in Sources */,
 				50BAE43E2CF3BC1300B5E74E /* BrainGSD.swift in Sources */,
 			);

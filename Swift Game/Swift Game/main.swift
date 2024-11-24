@@ -45,6 +45,7 @@ func main() {
         GSDGameRun()
     case 5:
         greetingUser()
+        progressionGameRun()
     case 6:
         greetingUser()
     case 0:
