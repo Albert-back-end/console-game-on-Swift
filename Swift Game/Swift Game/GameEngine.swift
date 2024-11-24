@@ -8,10 +8,10 @@
 import Foundation
 
 
-class Engine {
-    let countCycle = 3
+class GameEngine {
+    let gameCount = 3
 
-    func engineGame(mainQuestion: String, rounds: [GameRound]) {
+    func gameEngine(mainQuestion: String, rounds: [GameRound]) {
         print(mainQuestion)
 
         for round in rounds {

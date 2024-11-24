@@ -11,6 +11,7 @@
 		50BAE42A2CF3B75600B5E74E /* Cli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4292CF3B75600B5E74E /* Cli.swift */; };
 		50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */; };
 		50BAE4352CF3BA3100B5E74E /* GameRound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4342CF3BA3100B5E74E /* GameRound.swift */; };
+		50BAE4382CF3BB3C00B5E74E /* EvenGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		50BAE4292CF3B75600B5E74E /* Cli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cli.swift; sourceTree = "<group>"; };
 		50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameEngine.swift; sourceTree = "<group>"; };
 		50BAE4342CF3BA3100B5E74E /* GameRound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameRound.swift; sourceTree = "<group>"; };
+		50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EvenGame.swift; path = ../EvenGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,10 +67,20 @@
 			children = (
 				50BAE4222CF3B71F00B5E74E /* main.swift */,
 				50BAE4292CF3B75600B5E74E /* Cli.swift */,
+				50BAE4362CF3BB2B00B5E74E /* games */,
 				50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */,
 				50BAE4342CF3BA3100B5E74E /* GameRound.swift */,
 			);
 			path = "Swift Game";
+			sourceTree = "<group>";
+		};
+		50BAE4362CF3BB2B00B5E74E /* games */ = {
+			isa = PBXGroup;
+			children = (
+				50BAE4372CF3BB3C00B5E74E /* EvenGame.swift */,
+			);
+			name = games;
+			path = ../../../../.Trash/games;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,6 +144,7 @@
 				50BAE4352CF3BA3100B5E74E /* GameRound.swift in Sources */,
 				50BAE42A2CF3B75600B5E74E /* Cli.swift in Sources */,
 				50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */,
+				50BAE4382CF3BB3C00B5E74E /* EvenGame.swift in Sources */,
 				50BAE4232CF3B71F00B5E74E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
