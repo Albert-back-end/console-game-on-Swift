@@ -36,8 +36,10 @@ func main() {
         greetingUser()
     case 2:
         greetingUser()
+        evenGameRun()
     case 3:
         greetingUser()
+        calcGameRun()
     case 4:
         greetingUser()
     case 5:
