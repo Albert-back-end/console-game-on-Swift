@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		50BAE4232CF3B71F00B5E74E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4222CF3B71F00B5E74E /* main.swift */; };
 		50BAE42A2CF3B75600B5E74E /* Cli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4292CF3B75600B5E74E /* Cli.swift */; };
+		50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */; };
+		50BAE4352CF3BA3100B5E74E /* GameRound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4342CF3BA3100B5E74E /* GameRound.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +29,8 @@
 		50BAE41F2CF3B71F00B5E74E /* Swift Game */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift Game"; sourceTree = BUILT_PRODUCTS_DIR; };
 		50BAE4222CF3B71F00B5E74E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		50BAE4292CF3B75600B5E74E /* Cli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cli.swift; sourceTree = "<group>"; };
+		50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameEngine.swift; sourceTree = "<group>"; };
+		50BAE4342CF3BA3100B5E74E /* GameRound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameRound.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 			children = (
 				50BAE4222CF3B71F00B5E74E /* main.swift */,
 				50BAE4292CF3B75600B5E74E /* Cli.swift */,
+				50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */,
+				50BAE4342CF3BA3100B5E74E /* GameRound.swift */,
 			);
 			path = "Swift Game";
 			sourceTree = "<group>";
@@ -123,7 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50BAE4352CF3BA3100B5E74E /* GameRound.swift in Sources */,
 				50BAE42A2CF3B75600B5E74E /* Cli.swift in Sources */,
+				50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */,
 				50BAE4232CF3B71F00B5E74E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
