@@ -42,6 +42,7 @@ func main() {
         calcGameRun()
     case 4:
         greetingUser()
+        GSDGameRun()
     case 5:
         greetingUser()
     case 6:
