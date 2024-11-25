@@ -15,6 +15,7 @@
 		50BAE43C2CF3BBC400B5E74E /* EvenCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */; };
 		50BAE43E2CF3BC1300B5E74E /* BrainGSD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */; };
 		50BAE4402CF3BC7700B5E74E /* ProgressionGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */; };
+		50BAE4422CF3BCAD00B5E74E /* PrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BAE4412CF3BCAD00B5E74E /* PrimeNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EvenCalc.swift; path = ../EvenCalc.swift; sourceTree = "<group>"; };
 		50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BrainGSD.swift; path = ../BrainGSD.swift; sourceTree = "<group>"; };
 		50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProgressionGame.swift; path = ../ProgressionGame.swift; sourceTree = "<group>"; };
+		50BAE4412CF3BCAD00B5E74E /* PrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrimeNumber.swift; path = ../PrimeNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				50BAE43B2CF3BBC400B5E74E /* EvenCalc.swift */,
 				50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */,
 				50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */,
+				50BAE4412CF3BCAD00B5E74E /* PrimeNumber.swift */,
 			);
 			name = games;
 			path = ../../../../.Trash/games;
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50BAE4352CF3BA3100B5E74E /* GameRound.swift in Sources */,
+				50BAE4422CF3BCAD00B5E74E /* PrimeNumber.swift in Sources */,
 				50BAE42A2CF3B75600B5E74E /* Cli.swift in Sources */,
 				50BAE43C2CF3BBC400B5E74E /* EvenCalc.swift in Sources */,
 				50BAE42C2CF3B7AC00B5E74E /* GameEngine.swift in Sources */,

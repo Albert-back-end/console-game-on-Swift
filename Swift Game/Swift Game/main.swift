@@ -48,6 +48,7 @@ func main() {
         progressionGameRun()
     case 6:
         greetingUser()
+        primeGameRun()
     case 0:
         exit(0)
     default:
