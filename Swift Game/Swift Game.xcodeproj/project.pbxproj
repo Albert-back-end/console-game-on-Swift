@@ -41,6 +41,7 @@
 		50BAE43D2CF3BC1200B5E74E /* BrainGSD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BrainGSD.swift; path = ../BrainGSD.swift; sourceTree = "<group>"; };
 		50BAE43F2CF3BC7700B5E74E /* ProgressionGame.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProgressionGame.swift; path = ../ProgressionGame.swift; sourceTree = "<group>"; };
 		50BAE4412CF3BCAD00B5E74E /* PrimeNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrimeNumber.swift; path = ../PrimeNumber.swift; sourceTree = "<group>"; };
+		50BAE4432CF4530D00B5E74E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				50BAE4362CF3BB2B00B5E74E /* games */,
 				50BAE42B2CF3B7AC00B5E74E /* GameEngine.swift */,
 				50BAE4342CF3BA3100B5E74E /* GameRound.swift */,
+				50BAE4432CF4530D00B5E74E /* .gitignore */,
 			);
 			path = "Swift Game";
 			sourceTree = "<group>";
